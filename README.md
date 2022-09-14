@@ -1,8 +1,16 @@
-<h1 align="center" text-d > :sparkles: Hello Moi c'est DalSchim bienvenu dans mon univers :sparkles: </h1>
-<h3> je suis un étudien en dev au Pole leonard devinci</h3>
-<br>
-<li>📝je suis un developeur web specialiser en css</li>
-<li>✏️j'appercie UI et UX</i>
-<li>🗃️mes experiance: creation et developement de serveur gmod (Glua)</li>
 
-<h3>Mes Réseaux</h3>
+
+
+<h1 align="center"> :sparkles: Hello My name is DalSchim welcom to my universe :sparkles: </h1>
+<h2 align="center"> I am a student in the iim  Digital School Paris </h2>
+
+<h3> My skills </h3>
+<li>📝I am a web developer specializing in css programing language</li>
+<li>✏️I like UI and UX disigne</i>
+<li>🗃️my experiance: creation and developemente of gmod server (Glua)</li>
+
+<h3>My social Media</h3>
+<p>
+<a href="https://www.instagram.com/dalschim/"><img src="img/instagram.png" alt=""></a>
+<a href="https://[www.instagram.com/dalschim](https://www.linkedin.com/in/guillaume-gonidou-21223a233/)/"><img src="img/linkedin.png" alt=""></a>
+</p>
