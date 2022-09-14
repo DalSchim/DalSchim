@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center"> :sparkles: Hello My name is DalSchim welcom to my universe :sparkles: </h1>
-<h2 align="center"> I am a student in the iim  Digital School Paris </h2>
+<h1 align="center"> :sparkles: Hello My name is DalSchim welcome to my universe :sparkles: </h1>
+<h2 align="center"> I am a student at the IIM  Digital School Paris </h2>
 
 <h3> My skills </h3>
 <li>📝I am a web developer specializing in css programing language</li>
-<li>✏️I like UI and UX disigne</i>
-<li>🗃️my experiance: creation and developemente of gmod server (Glua)</li>
+<li>✏️I like UI and UX disign</i>
+<li>🗃️my experiance: creation and developement of gmod server (Glua)</li>
 
 <h3>My social Media</h3>
 <p>
