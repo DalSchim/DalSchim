@@ -7,7 +7,7 @@
 <h3> My skills </h3>
 <li>📝I am a web developer specializing in css programing language</li>
 <li>✏️I like UI and UX disign</i>
-<li>🗃️my experiance: creation and developement of gmod server (Glua)</li>
+<li>🗃️my experiences: creation and developement of gmod server (Glua)</li>
 
 <h3>My social Media</h3>
 <p>
