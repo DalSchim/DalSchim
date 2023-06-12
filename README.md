@@ -5,7 +5,7 @@
 <h2 align="center"> I am a student at the IIM  Digital School Paris </h2>
 
 <h3> My skills </h3>
-<li>📝I am a web developer specializing in css programing language</li>
+<li>📝I am a web developer specializing in fontend css vue-js programing language</li>
 <li>✏️I like UI and UX disign</i>
 <li>🗃️my experiences: creation and developement of gmod server (Glua)</li>
 
