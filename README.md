@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> :sparkles: Hello My name is DalSchim welcome to my universe :sparkles: </h1>
+<h2 align="center"> I am a student at the IIM  Digital School Paris </h2>
 
-<!--
-**DalSchim/DalSchim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> My skills </h3>
+@@ -12,7 +12,7 @@
+<h3>My social Media</h3>
+<p>
+<a href="https://www.instagram.com/dalschim/"><img src="img/instagram.png" alt=""></a>
+<a href="https://[www.instagram.com/dalschim]></a>
+<a href="https://[www.instagram.com/dalschim]></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Software skills and language<h3>
